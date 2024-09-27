@@ -18,7 +18,7 @@
 
 1. 🤖 [Introduction](#introduction)
 2. 🔋 [Features](#features)
-3. 🏆 [Inspiration](#inspiration)
+3. 💖 [Inspiration](#inspiration)
 4. ⚙️ [Setup and Deployment](#setup-and-deployment)
 5. 🚀 [Usage](#usage)
 6. 🌠 [Gemini AI Integration](#gemini-ai-integration)
@@ -34,9 +34,9 @@ AI Cancer Care provides an easy and efficient way to craft personalized cancer c
 - **Personalized Treatment Plans**: Analyzes patient data, medical records, and guidelines to identify gaps in cancer screening and follow-up care, crafting tailored treatment plans for individual patients.
 - **Secure Data Sharing**: Shares sensitive data securely using encryption and cryptographic features, protecting patient information while facilitating necessary data access for healthcare providers.
 
-## 🏆 Inspiration
+## 💖 Inspiration
 
-This project is deeply personal to me. My grandmother recently passed away from cancer, and witnessing her struggle firsthand inspired me to create a solution that could help others in similar situations. She often faced difficulties in coordinating her care and keeping track of her treatment plan, which sometimes led to missed appointments and delayed treatments. I wanted to build an application that could alleviate these challenges for other patients and their families.
+This project was inspired by the urgent need to improve cancer care management. Patients facing cancer often have to navigate a complex system of appointments, treatments, and follow-ups. The goal of this application is to provide a comprehensive and user-friendly platform where cancer patients can easily schedule and manage their treatment plans. By focusing on accessibility and support, this app strives to alleviate some of the burdens that patients and healthcare providers face, ensuring better care coordination and ultimately improving patient outcomes.
 
 ## ⚙️ Setup and Deployment
 
@@ -49,8 +49,8 @@ This project is deeply personal to me. My grandmother recently passed away from 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mendsalbert/beat-cancer.git
-   cd beat-cancer
+   git clone https://github.com/SSII-Services/cancer-AI.git
+   cd cancer-AI
    ```
 
 2. **Install Dependencies**
